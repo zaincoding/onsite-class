@@ -1,0 +1,2 @@
+In this code we defind the function 'message' with its parameter 'msg' inside the function we returned the msg to
+print the string by calling the function with an argument.

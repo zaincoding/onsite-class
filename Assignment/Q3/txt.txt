@@ -1,0 +1,5 @@
+in this code, we declared an object 'words' and defined a function called 'strFunction' with one parameter using for..of, loop to loop through the string character to update the word object without the repetition of the same character again. 
+
+Then we declare an array 'nonRepeat' and use the for...of the loop again to iterate the object key in const char then we update the 'nonRepeat' array with the 'char' value using the push method, to extract the value from
+
+the array we use the basic for loop to loop through the array value. finally, we call the function to output the result.

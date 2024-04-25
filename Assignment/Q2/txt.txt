@@ -1,0 +1,18 @@
+In this code, we defined a function 'prime' with its two parameters 'number', and 'divisor=2' with its default value 2 If the user input 'number' is less than or equal to '2', we use the first condition: true (if the value is equal to 2) or false(if less than 2).
+
+if the user input 'number' modulus is equal to 0 runs the second condition which is false it means that the number is not a prime number.
+
+
+
+if the user input 'number' is smaller than the square of the divisor (divisor*divisor) which is 4 then run the 3rd condition which is true it means that a number is a prime number.
+
+
+
+if the prime 'number' is greater than the square of the divisor(divisor*divisor) which is 4 then it will bypass all the three conditions at the first attempt,
+
+ to pass it through the condition recursively until the condition is not true
+
+
+
+we will use the return statement to return the function with the addition '1' in the 'divisor' parameter. So now it will meet the third condition in the second attempt as we pass 'number' value 5 with the addition of one in the 'divisor' value of the root the divisor (divisor*divisor) or(3*3) is 9 which is greater than the number value '5' so the condition is true.
+

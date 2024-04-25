@@ -1,0 +1,1 @@
+In this code we defined the function 'sqrFunction' with one parameter 'square' inside the function we multiplied the parameter value by itself to return and print the square of any number.
