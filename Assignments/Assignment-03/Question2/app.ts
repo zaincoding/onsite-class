@@ -1,3 +1,4 @@
+//Assignment:Q2
 type Car ={
     engine:{
     hoursePower:string;
