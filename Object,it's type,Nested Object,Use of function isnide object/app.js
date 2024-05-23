@@ -77,14 +77,12 @@ var student = {
     // greet:function(){
     //   console.log("Hello class")
     // }
-    //simple function
     callName: function () {
-        return ("Hello Ahmed Ali");
+        return ("Hello Hamza Alvi");
     },
     // addition: function(num1, num2){
     //    return num1 + num2;
     // }
-    //Arrow function
     addition: function (num1, num2) {
         return num1 + num2;
     }
@@ -101,7 +99,3 @@ console.log(addition(4, 5));
 console.log(student.addition(5, 6), student.callName());
 // console.log(student.greet())
 // student.callName();
-// const  sayHello= () =>{
-//    console.log("Hello World")
-// }
-// sayHello()
