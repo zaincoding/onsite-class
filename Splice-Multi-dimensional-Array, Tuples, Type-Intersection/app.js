@@ -36,11 +36,27 @@
 // type multiArray = [number,number,number,number,number,string[]]
 // let array:multiArray = [1,2,3,4,5,["Corolla","Civic","Byd","Ford","BMW"]];
 // console.log("Array =", array[5][3]);
-var package = 5;
-var intesection = {
-    name: "abc",
-    class: "Thursday",
-    dob: 123
-};
-console.log(intesection);
-console.log(intesection.dob);
+// let package: string | number |boolean = 5;
+// type Intersection ={
+//     name:string;
+//     class: string;
+// }
+// type Intersection2 ={
+//   dob:number;
+// }
+// type Intersection3 ={
+//     name:string;
+//     class: string;
+//     dob:123
+// }
+// let intesection:Intersection & Intersection2={
+//     name:"abc",
+//     class:"Thursday",
+//     dob: 123
+// }
+// console.log(intesection)
+// console.log(intesection.dob)
+// let userName:string = "Hamza";
+// let userName1 = "Hamza" as string;
+// // let number = 123 as number
+// let number = 123 as number | string
