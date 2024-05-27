@@ -1,6 +1,6 @@
 var scrambledArray = ["student", "of", true, 123, "am", "a", "GIAIC", "I"];
-//o Convert non-strings (booleans, numbers) to strings if needed.
 var convert = scrambledArray[3].toString();
+console.log(convert);
 scrambledArray.splice(3, 1, convert);
 console.log("Value of boolean converted to, \"".concat(typeof convert, "\""));
 var convert2 = scrambledArray[2].toString();
