@@ -46,7 +46,7 @@
 // let myName ={
 
 //     name: 'Ahmed',
-//     color:'25',
+//     age:'25',
 //     class: "morning 9:00 Am",
 
 // }

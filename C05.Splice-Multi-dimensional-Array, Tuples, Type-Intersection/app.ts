@@ -33,7 +33,7 @@
 
 // console.log(names, "names");
 
-//**********Touples***********/
+//**********Tuples***********/
 // type Fruits =[string,string,string]
 // const fruits:Fruits =["Apple","Mango","Orange"];
 
