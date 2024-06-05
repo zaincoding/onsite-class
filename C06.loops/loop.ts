@@ -1,5 +1,5 @@
 //initial condition
-//stopic condition.
+//stopping condition.
 //updation or incremental statement
 
 // for(let count=3; count<=10; count++){
