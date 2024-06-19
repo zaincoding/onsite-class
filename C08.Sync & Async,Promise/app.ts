@@ -41,7 +41,7 @@
 
 //promise
 //status pending 
-//promise fullfill, resolve (pass or tru)
+//promise fulfill, resolve (pass or tru)
 //promisen rejected (fail or false)
 
 
@@ -49,7 +49,7 @@ let SirZiaPromise = new Promise( (res, rej) => {
     //  res("Pass")
      rej("fail");
 })
-//aync function
+//async function
 async function SirZiaPromisestatus(){
 try{
     let status =await SirZiaPromise;
