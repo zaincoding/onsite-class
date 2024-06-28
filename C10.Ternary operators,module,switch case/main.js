@@ -5,3 +5,6 @@ var app_1 = require("./app");
 var app_2 = require("./app");
 (0, app_2.addition)(2, 3, 5);
 (0, app_2.subtraction)(2, 3, 5);
+
+
+/******End *****/
